@@ -1,2 +1,1 @@
 # Shane Cahill
-Data Analyst
