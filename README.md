@@ -1,5 +1,5 @@
 # Data Analyst
-![Shane Cahill] (ShaneCahill1988docs/assets/css/PortfolioJPEG.jpg)
+! [Shane Cahill] (ShaneCahill1988docs/assets/css/PortfolioJPEG.jpg)
 
 ### Education
 B.Mus Performance
