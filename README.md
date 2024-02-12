@@ -1,4 +1,4 @@
-# [Shane Cahill Data Analyst] (/assets/img/portfolio_photo_pdf_2024_02_07.pdf)
+# Data Analyst
 
 ### Education
 B.Mus Performance
