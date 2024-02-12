@@ -1,4 +1,4 @@
-# Data Analyst
+# [Shane Cahill Data Analyst] (/assets/img/
 
 ### Education
 B.Mus Performance
