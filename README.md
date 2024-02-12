@@ -1,4 +1,5 @@
 # Data Analyst
+(assets/PortfolioJPEG.jpg)
 
 ### Education
 B.Mus Performance
